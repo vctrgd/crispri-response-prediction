@@ -9,3 +9,4 @@ torch>=2.2
 tqdm>=4.66
 jupyter>=1.0
 ipykernel>=6.29
+fastparquet
